@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EVALUACION</string>
+    <string name="usuario">Usuario</string>
+    <string name="ingrese_usuario">Ingrese usuario</string>
+    <string name="ingrese_su_correo_electronico">Ingrese su Correo Electronico</string>
+    <string name="send">SEND</string>
+    <string name="dummy">0</string>
+</resources>
